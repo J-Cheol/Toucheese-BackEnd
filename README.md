@@ -294,7 +294,7 @@ Toucheese는 조회 중심 기능을 우선 구현한 뒤,
 
 ## ERD
 
-![Toucheese ERD](docs/images/erd-toucheese.png)
+![Toucheese ERD](docs/images/ERD-Toucheese.png)
 
 프로젝트는 회원, 스튜디오, 상품, 예약, 장바구니, 리뷰, 문의, 관리자 기능을 중심으로 데이터를 설계했습니다.
 
